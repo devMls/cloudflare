@@ -1,4 +1,4 @@
-module github.com/caddy-dns/cloudflare
+module github.com/devMls/cloudflare
 
 go 1.20
 
